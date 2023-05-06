@@ -5,7 +5,7 @@
 3. <a href="https://github.com/funcid/data-science">data-science</a> изучаю теор. вер. и мат. стат. 🧠🤖👽
 4. <a href="https://github.com/funcid/web-crawler">web-crawler</a> cканнер интернета, сохраняет найденные сайты в IndexSearch 🌐💾🔱
 5. <a href="https://github.com/funcid/ftp-desktop-util">ftp-desktop-util</a> клиент для обмена файлами по FTP 💿💻📂
-6. <a href="https://github.com/funcid/log4j-exploit-with-fork-bomb">log4j-exploit-with-fork-bomb</a> Proof of Concept: CVE-2021-44228 + fork bomb 💣💥💀
+6. <a href="https://github.com/funcid/log4j-exploit-fork-bomb">log4j-exploit-fork-bomb</a> Proof of Concept: CVE-2021-44228 + fork bomb 💣💥💀
 7. <a href="https://github.com/funcid/parametric-graphics-visualizer">parametric-graphics-visualizer</a> приложение для показа параметрических функций 📈📉📨
 8. <a href="https://github.com/funcid/leetcode-training">leetcode-training</a> тренируюсь решать LeetCode проблемы программирования 🤯🤓👺
 9. <a href="https://github.com/funcid/peas-cli">peas-cli</a> in progress...

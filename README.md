@@ -10,7 +10,7 @@
 8. <a href="https://github.com/funcid/leetcode-training">leetcode-training</a> решаю LeetCode проблемы 👺
 9. <a href="https://github.com/funcid/web-post-parser">web-post-parser</a> посты из Pikabu/JoyReactor в XML/JSON 📄
 10. <a href="https://github.com/funcid/peas-cli">peas-cli</a> in progress... 📲
-11. <a href="https://github.com/funcid/peas-cli">nano-capcha</a> planning... 🔥
+11. <a href="https://github.com/funcid/nano-capcha">nano-capcha</a> planning... 🔥
 
 ### 🧠 Знания 
 Spring, Spring Boot, Java, Kotlin, Groovy, MongoDB, MySQL, PostgreSQL, Redis, Prometheus, Grafana, Docker, Nexus, Reposilite, REST, Maven, Gradle, Git, GitHub/GitLab CI/CD, Jsoup, Jira, ClickUp, OpenGL, Nats, Liquibase, ProGuard, JProfiler, Bukkit, Spigot, Recaf, Apache Kafka, Elastic/OpenSearch, BitBucket, Linux, OpenShift, k8s, Istio, Envoy, mTLS, Jenkins, Ansible, Keycloak, SonarQube, JUnit, Mockito, KarateLabs, VirtualBox, PostMan, HashiCorp Vault, Confluence, GraalVM, OpenAPI, EventBus, ЕСИА, nginx, Lens, Kibana, SdkMan, TestContainers, Python3, Jupyter Notebook, Arduino, ProxMox

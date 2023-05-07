@@ -11,7 +11,7 @@
 9. <a href="https://github.com/funcid/leetcode-training">leetcode-training</a> решаю LeetCode проблемы 👺
 10. <a href="https://github.com/funcid/web-post-parser">web-post-parser</a> посты из Pikabu/JoyReactor в XML/JSON 📄
 11. <a href="https://github.com/funcid/peas-cli">peas-cli</a> in progress... 📲
-12. <a href="https://github.com/funcid/nano-capcha">nano-capcha</a> planning... 🔥
+12. <a href="https://github.com/funcid/nano-login">nano-login</a> planning... 🔥
 13. <a href="https://github.com/funcid/digital-democracy">digital-democracy</a> planning... ❇
 
 ### 🧠 Знания 

@@ -7,11 +7,12 @@
 5. <a href="https://github.com/funcid/ftp-desktop-util">ftp-desktop-util</a> клиент для обмена файлами по FTP 📂
 6. <a href="https://github.com/funcid/log4j-exploit-fork-bomb">log4j-exploit-fork-bomb</a> Proof of Concept: CVE-2021-44228 + fork bomb 💣
 7. <a href="https://github.com/funcid/parametric-graphics-visualizer">parametric-graphics-visualizer</a> параметрические функции 📈
-8. <a href="https://github.com/funcid/leetcode-training">leetcode-training</a> решаю LeetCode проблемы 👺
-9. <a href="https://github.com/funcid/web-post-parser">web-post-parser</a> посты из Pikabu/JoyReactor в XML/JSON 📄
-10. <a href="https://github.com/funcid/peas-cli">peas-cli</a> in progress... 📲
-11. <a href="https://github.com/funcid/nano-capcha">nano-capcha</a> planning... 🔥
-12. <a href="https://github.com/funcid/digital-democracy">digital-democracy</a> planning... ❇
+8. <a href="https://github.com/cristalix-developers/museum">museum</a> игра, экономический симулятор палеонтолога 🏦
+9. <a href="https://github.com/funcid/leetcode-training">leetcode-training</a> решаю LeetCode проблемы 👺
+10. <a href="https://github.com/funcid/web-post-parser">web-post-parser</a> посты из Pikabu/JoyReactor в XML/JSON 📄
+11. <a href="https://github.com/funcid/peas-cli">peas-cli</a> in progress... 📲
+12. <a href="https://github.com/funcid/nano-capcha">nano-capcha</a> planning... 🔥
+13. <a href="https://github.com/funcid/digital-democracy">digital-democracy</a> planning... ❇
 
 ### 🧠 Знания 
 Spring, Spring Boot, Java, Kotlin, Groovy, MongoDB, MySQL, PostgreSQL, Redis, Prometheus, Grafana, Docker, Nexus, Reposilite, REST, Maven, Gradle, Git, GitHub/GitLab CI/CD, Jsoup, Jira, ClickUp, OpenGL, Nats, Liquibase, ProGuard, JProfiler, Bukkit, Spigot, Recaf, Apache Kafka, Elastic/OpenSearch, BitBucket, Linux, OpenShift, k8s, Istio, Envoy, mTLS, Jenkins, Ansible, Keycloak, SonarQube, JUnit, Mockito, KarateLabs, VirtualBox, PostMan, HashiCorp Vault, Confluence, GraalVM, OpenAPI, EventBus, ЕСИА, nginx, Lens, Kibana, SdkMan, TestContainers, Python3, Jupyter Notebook, Arduino, ProxMox

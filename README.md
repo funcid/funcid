@@ -8,7 +8,7 @@
 6. <a href="https://github.com/funcid/log4j-exploit-fork-bomb">log4j-exploit-fork-bomb</a> Proof of Concept: CVE-2021-44228 + fork bomb 💣💥💀
 7. <a href="https://github.com/funcid/parametric-graphics-visualizer">parametric-graphics-visualizer</a> параметрические функции 📈📉📨
 8. <a href="https://github.com/funcid/leetcode-training">leetcode-training</a> решаю LeetCode проблемы 🤯🤓👺
-9. <a href="https://github.com/funcid/web-post-parser">web-post-parser</a> выгрузка постов с Pikabu/JoyReactor в XML/JSON страницу 🤫💦📄
+9. <a href="https://github.com/funcid/web-post-parser">web-post-parser</a> посты из Pikabu/JoyReactor в XML/JSON 🤫💦📄
 10. <a href="https://github.com/funcid/peas-cli">peas-cli</a> in progress...
 11. <a href="https://github.com/funcid/peas-cli">funcraft</a> in progress...
 

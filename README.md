@@ -10,7 +10,7 @@
 8. <a href="https://github.com/cristalix-developers/museum">museum</a> игра, экономический симулятор палеонтолога 🏦
 9. <a href="https://github.com/funcid/leetcode-training">leetcode-training</a> решаю LeetCode проблемы 👺
 10. <a href="https://github.com/funcid/web-post-parser">web-post-parser</a> посты из Pikabu/JoyReactor в XML/JSON 📄
-11. <a href="https://github.com/funcid/peas-cli">peas-cli</a> in progress... 📲
+11. <a href="https://github.com/funcid/peas-cli">peas-cli</a> (mvp) децентрализованный файлообмен 📲
 12. <a href="https://github.com/funcid/nano-login">nano-login</a> planning... 🔥
 13. <a href="https://github.com/funcid/digital-democracy">digital-democracy</a> planning... ❇
 

@@ -11,8 +11,8 @@
 9. <a href="https://github.com/funcid/leetcode-training">leetcode-training</a> решаю LeetCode проблемы 👺
 10. <a href="https://github.com/funcid/web-post-parser">web-post-parser</a> посты из Pikabu/JoyReactor в XML/JSON 📄
 11. <a href="https://github.com/funcid/peas-cli">peas-cli</a> (mvp) децентрализованный файлообмен 📲
-12. <a href="https://github.com/funcid/nano-login">nano-login</a> planning... 🔥
-13. <a href="https://github.com/funcid/digital-democracy">digital-democracy</a> planning... ❇
+12. <a href="https://github.com/funcid/digital-democracy">digital-democracy</a> planning... ❇
+13. <a href="https://github.com/orgs/anilive">anilive project</a> planning... 🔥
 
 ### 🧠 Знания 
 Spring, Spring Boot, Java, Kotlin, Groovy, MongoDB, MySQL, PostgreSQL, Redis, Prometheus, Grafana, Docker, Nexus, Reposilite, REST, Maven, Gradle, Git, GitHub/GitLab CI/CD, Jsoup, Jira, ClickUp, OpenGL, Nats, Liquibase, ProGuard, JProfiler, Bukkit, Spigot, Recaf, Apache Kafka, Elastic/OpenSearch, BitBucket, Linux, OpenShift, k8s, Istio, Envoy, mTLS, Jenkins, Ansible, Keycloak, SonarQube, JUnit, Mockito, KarateLabs, VirtualBox, PostMan, HashiCorp Vault, Confluence, GraalVM, OpenAPI, EventBus, ЕСИА, nginx, Lens, Kibana, SdkMan, TestContainers, Python3, Jupyter Notebook, Arduino, ProxMox, Android

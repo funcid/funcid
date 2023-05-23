@@ -1,8 +1,8 @@
 ### 📂 Проекты
 
 1. <a href="https://github.com/funcid/visual-driver">visual-driver</a> движок для Minecraft, общий набор визуальных решений 💎
-2. <a href="https://github.com/funcid/meteo-service">meteo-service</a> своя Я.Погода, от Arduino UNO и Spring Boot, до Android 🌦
-3. <a href="https://github.com/funcid/data-science">data-science</a> изучаю теор. вер., мат. стат. и ML  🧠
+2. <a href="https://github.com/funcid/meteo-service">meteo-service</a> своя Я.Погода, от Arduino UNO и Spring Boot, до Android (школьный проект) 🌦
+3. <a href="https://github.com/funcid/data-science">data-science</a> изучаю теор. вер., мат. стат. и ML 🧠
 4. <a href="https://github.com/funcid/web-crawler">web-crawler</a> cканнер интернета, сохраняет найденные сайты + поиск 🌐
 5. <a href="https://github.com/funcid/ftp-desktop-util">ftp-desktop-util</a> клиент для обмена файлами по FTP 📂
 6. <a href="https://github.com/funcid/log4j-exploit-fork-bomb">log4j-exploit-fork-bomb</a> Proof of Concept: CVE-2021-44228 + fork bomb 💣
@@ -10,7 +10,7 @@
 8. <a href="https://github.com/cristalix-developers/museum">museum</a> игра, экономический симулятор палеонтолога 🏦
 9. <a href="https://github.com/funcid/leetcode-training">leetcode-training</a> решаю LeetCode проблемы 👺
 10. <a href="https://github.com/funcid/web-post-parser">web-post-parser</a> посты из Pikabu/JoyReactor в XML/JSON 📄
-11. <a href="https://github.com/funcid/peas-cli">peas-cli</a> (mvp) децентрализованный файлообмен 📲
+11. <a href="https://github.com/funcid/peas-cli">peas-cli</a> (mvp) децентрализованный файлообмен (курсовая работа) 📲
 12. <a href="https://github.com/funcid/digital-democracy">digital-democracy</a> planning... ❇
 13. <a href="https://github.com/orgs/anilive">anilive project</a> planning... 🔥
 

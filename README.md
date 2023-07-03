@@ -16,7 +16,7 @@
 14. <a href="https://github.com/orgs/anilive">anilive project</a> planning... 🔥
 
 ### 🧠 Знания 
-Spring, Spring Boot, Java, Kotlin, Groovy, MongoDB, MySQL, PostgreSQL, Redis, Prometheus, Grafana, Micrometer, Docker, Nexus, Reposilite, REST, Maven, Gradle, Git, GitHub/GitLab CI/CD, Jsoup, Jira, ClickUp, OpenGL, Nats, Liquibase, ProGuard, JProfiler, Bukkit, Spigot, Recaf, Apache Kafka, Elastic/OpenSearch, BitBucket, Linux, OpenShift, k8s, Istio, Envoy, mTLS, Jenkins, Ansible, Keycloak, SonarQube, JUnit, Mockito, WireMock, KarateLabs, VirtualBox, PostMan, HashiCorp Vault, Confluence, GraalVM, OpenAPI, EventBus, ЕСИА, nginx, Lens, Kibana, SdkMan, TestContainers, Python3, Jupyter Notebook, Stable Diffusion, Arduino, ProxMox, Android, Amazon Lambda, Serverless, Ktor, Ktlint, Exposed, ReactJs, Node.js, Axios
+Spring, Spring Boot, Java, Kotlin, Groovy, MongoDB, MySQL, PostgreSQL, Redis, Prometheus, Grafana, Micrometer, Docker, Nexus, Reposilite, REST, Maven, Gradle, Git, GitHub/GitLab CI/CD, Jsoup, Jira, ClickUp, OpenGL, Nats, Liquibase, ProGuard, JProfiler, Bukkit, Spigot, Recaf, Apache Kafka, Elastic/OpenSearch, BitBucket, Linux, OpenShift, k8s, Istio, Envoy, mTLS, Jenkins, Ansible, Keycloak, SonarQube, JUnit, Mockito, WireMock, KarateLabs, VirtualBox, PostMan, HashiCorp Vault, Confluence, GraalVM, OpenAPI, EventBus, ЕСИА, nginx, Lens, Kibana, SdkMan, TestContainers, Python3, Jupyter Notebook, Stable Diffusion, Arduino, ProxMox, Android, Amazon Lambda, Serverless, Ktor, Ktlint, Exposed, ReactJs, Node.js, Axios, CORS
 
 
 

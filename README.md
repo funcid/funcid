@@ -13,7 +13,7 @@
 11. <a href="https://github.com/funcid/peas-cli">peas-cli</a> (mvp) децентрализованный файлообмен (курсовая работа 2 курс) 📲
 12. <a href="https://github.com/funcid/s3-vultr-downloader">s3-vultr-downloader</a> скачать корзину из Vultr 💫
 13. <a href="https://github.com/funcid/stable-diffusion-inpaint-util">stable-diffusion-inpaint-util</a> AI редактор фото 🔄
-14. <a href="https://github.com/funcid/phillips-anxiety-test-desktop">phillips-anxiety-test-desktop</a> Desktop прих. тест Филлипса ➗
+14. <a href="https://github.com/funcid/phillips-anxiety-test-desktop">phillips-anxiety-test-desktop</a> Desktop тест Филлипса на тревожность ➗
 15. <a href="https://github.com/funcid/funcid-space">funcid-space</a> planning... ❇
 
 ### 🧠 Знания 

@@ -11,7 +11,7 @@
 9. <a href="https://github.com/cristalix-developers/museum">museum</a> игра, экономический симулятор палеонтолога 🏦
 10. <a href="https://github.com/funcid/leetcode-training">leetcode-training</a> решаю LeetCode проблемы 👺
 11. <a href="https://github.com/funcid/web-post-parser">web-post-parser</a> посты из Pikabu/JoyReactor в XML/JSON 📄
-12. <a href="https://github.com/funcid/peas-cli">peas-cli</a> (mvp) децентрализованный файлообмен (курсовая работа 2 курс) 📲
+12. <a href="https://github.com/funcid/peas-cli">peas-cli</a> децентрализованный файлообмен (курсовая работа 2 курс) 📲
 13. <a href="https://github.com/funcid/s3-vultr-downloader">s3-vultr-downloader</a> скачать корзину из Vultr 💫
 14. <a href="https://github.com/funcid/phillips-anxiety-test-desktop">phillips-anxiety-test-desktop</a> Desktop тест Филлипса на тревожность ➗
 15. <a href="https://github.com/funcid/cuda-hodograph">cuda-hodograph</a> годограф Найквиста на CUDA ядрах, анализ САУ ♾

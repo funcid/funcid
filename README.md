@@ -14,7 +14,8 @@
 12. <a href="https://github.com/funcid/s3-vultr-downloader">s3-vultr-downloader</a> скачать корзину из Vultr 💫
 13. <a href="https://github.com/funcid/stable-diffusion-inpaint-util">stable-diffusion-inpaint-util</a> AI редактор фото 🔄
 14. <a href="https://github.com/funcid/phillips-anxiety-test-desktop">phillips-anxiety-test-desktop</a> Desktop тест Филлипса на тревожность ➗
-15. <a href="https://github.com/funcid/funcid-space">funcid-space</a> planning... ❇
+15. <a href="https://github.com/funcid/cuda-hodograph">cuda-hodograph</a> годограф Найквиста на CUDA ядрах, анализ САУ ♾
+16. <a href="https://github.com/funcid/funcid-space">funcid-space</a> planning... ❇
 
 ### 🧠 Знания 
 Spring, Spring Boot, Java, Kotlin, Groovy, MongoDB, MySQL, PostgreSQL, Redis, Prometheus, Grafana, Micrometer, Docker, Nexus, Reposilite, REST, Maven, Gradle, Git, GitHub/GitLab CI/CD, Jsoup, Jira, ClickUp, OpenGL, Nats, Liquibase, ProGuard, JProfiler, Bukkit, Spigot, Recaf, Apache Kafka, Elastic/OpenSearch, BitBucket, Linux, OpenShift, k8s, Istio, Envoy, mTLS, Jenkins, Ansible, Keycloak, SonarQube, JUnit, Mockito, WireMock, KarateLabs, VirtualBox, PostMan, HashiCorp Vault, Confluence, GraalVM, OpenAPI, EventBus, ЕСИА, nginx, Lens, Kibana, SdkMan, TestContainers, Python3, Jupyter Notebook, Stable Diffusion, Arduino, ProxMox, Android, Amazon Lambda, S3, MinIO, Serverless, Ktor, Ktlint, Exposed, ReactJs, Node.js, Axios, CORS, WebFlux

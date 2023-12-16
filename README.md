@@ -5,7 +5,7 @@
 3. <a href="https://github.com/funcid/data-science">data-science</a> изучаю теор. вер., мат. стат. и ML 🧠
 4. <a href="https://github.com/funcid/web-crawler">web-crawler</a> cканнер интернета, сохраняет найденные сайты + поиск 🌐
 5. <a href="https://github.com/funcid/ftp-desktop-util">ftp-desktop-util</a> клиент для обмена файлами по FTP 📂
-6. <a href="https://github.com/funcid/stable-diffusion-inpaint-util">stable-diffusion-inpaint-util</a> AI редактор фото 🔄
+6. <a href="https://github.com/funcid/stable-diffusion-inpaint-util">stable-diffusion-inpaint-util</a> AI редактор фото на базе StableDiffusion 🔄
 7. <a href="https://github.com/funcid/log4j-exploit-fork-bomb">log4j-exploit-fork-bomb</a> Proof of Concept: CVE-2021-44228 + fork bomb 💣
 8. <a href="https://github.com/funcid/parametric-graphics-visualizer">parametric-graphics-visualizer</a> параметрические функции 📈
 9. <a href="https://github.com/cristalix-developers/museum">museum</a> игра, экономический симулятор палеонтолога 🏦

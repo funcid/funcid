@@ -9,7 +9,7 @@
 7. <a href="https://github.com/funcid/log4j-exploit-fork-bomb">log4j-exploit-fork-bomb</a> Proof of Concept: CVE-2021-44228 + fork bomb 💣
 8. <a href="https://github.com/funcid/parametric-graphics-visualizer">parametric-graphics-visualizer</a> параметрические функции 📈
 9. <a href="https://github.com/cristalix-developers/museum">museum</a> игра, экономический симулятор палеонтолога 🏦
-10. <a href="https://github.com/funcid/takiwadai">takiwadai</a> платформа для соревнований в решении задач ⌚
+10. <a href="https://github.com/funcid/takiwadai">takiwadai</a> платформа для соревнований в решении олимп. задач ⌚
 11. <a href="https://github.com/funcid/leetcode-training">leetcode-training</a> решаю LeetCode проблемы 👺
 12. <a href="https://github.com/funcid/web-post-parser">web-post-parser</a> посты из Pikabu/JoyReactor в XML/JSON 📄
 13. <a href="https://github.com/funcid/peas-cli">peas-cli</a> децентрализованный файлообмен (курсовая работа 2 курс) 📲

@@ -13,12 +13,13 @@
 11. <a href="https://github.com/funcid/web-post-parser">web-post-parser</a> посты из Pikabu/JoyReactor в XML/JSON 📄
 12. <a href="https://github.com/funcid/peas-cli">peas-cli</a> децентрализованный файлообмен (курсовая работа 2 курс) 📲
 13. <a href="https://github.com/funcid/s3-vultr-downloader">s3-vultr-downloader</a> скачать корзину из Vultr 💫
-14. <a href="https://github.com/funcid/cuda-hodograph">cuda-hodograph</a> годограф Найквиста на CUDA ядрах, анализ САУ ♾
+14. <a href="https://github.com/funcid/cuda-hodograph">cuda-hodograph</a> годограф Найквиста на CUDA ядрах, анализ САУ ♾ <strong>HOLD</strong>
 15. <a href="https://github.com/funcid/web-k8s">web-k8s</a> утилита для администрирования Kubernetes 👀
-16. <a href="https://github.com/funcid/funcid-space">funcid-space</a> planning... ❇
+16. <a href="https://github.com/funcid/personality-engine">personality-engine</a> 🤖🗣️👄
+17. <a href="https://github.com/funcid/funcid-space">funcid-space</a> planning... ❇
 
 ### 🧠 Знания 
-Spring, Spring Boot, Java, Kotlin, Groovy, MongoDB, MySQL, PostgreSQL, Redis, Prometheus, Grafana, Micrometer, Docker, Nexus, Reposilite, REST, Maven, Gradle, Git, GitHub/GitLab CI/CD, Jsoup, Jira, ClickUp, OpenGL, Nats, Liquibase, ProGuard, JProfiler, Bukkit, Spigot, Recaf, Apache Kafka, Elastic/OpenSearch, BitBucket, Linux, OpenShift, k8s, Istio, Envoy, mTLS, Jenkins, Ansible, Keycloak, SonarQube, JUnit, Mockito, WireMock, KarateLabs, VirtualBox, PostMan, HashiCorp Vault, Confluence, GraalVM, OpenAPI, EventBus, ЕСИА, nginx, Lens, Kibana, SdkMan, TestContainers, Python3, Jupyter Notebook, Stable Diffusion, Arduino, ProxMox, Android, Amazon Lambda, S3, MinIO, Serverless, Ktor, Ktlint, Exposed, ReactJs, Node.js, Axios, CORS, WebFlux, CUDA
+Spring, Spring Boot, Java, Kotlin, Groovy, MongoDB, MySQL, PostgreSQL, Redis, Prometheus, Grafana, Micrometer, Docker, Nexus, Reposilite, REST, Maven, Gradle, Git, GitHub/GitLab CI/CD, Jsoup, Jira, ClickUp, OpenGL, Nats, Liquibase, ProGuard, JProfiler, Bukkit, Spigot, Recaf, Apache Kafka, Elastic/OpenSearch, BitBucket, Linux, OpenShift, k8s, Istio, Envoy, mTLS, Jenkins, Ansible, Keycloak, SonarQube, JUnit, Mockito, WireMock, KarateLabs, VirtualBox, PostMan, HashiCorp Vault, Confluence, GraalVM, OpenAPI, EventBus, ЕСИА, nginx, Lens, Kibana, SdkMan, TestContainers, Python3, Jupyter Notebook, Stable Diffusion, Arduino, ProxMox, Android, Amazon Lambda, S3, MinIO, Serverless, Ktor, Ktlint, Exposed, ReactJs, Node.js, Axios, CORS, WebFlux, CUDA, LlaMA, TTS, LipSync
 
 
 

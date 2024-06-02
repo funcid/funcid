@@ -2,7 +2,7 @@
 
 1. <a href="https://github.com/funcid/visual-driver">visual-driver</a> движок для Minecraft, общий набор визуальных решений 💎
 2. <a href="https://github.com/funcid/meteo-service">meteo-service</a> своя Я.Погода, от Arduino UNO и Spring Boot до Android 🌦
-3. <a href="https://github.com/funcid/data-science">data-science</a> изучаю теор. вер., мат. стат. и ML 🧠
+3. <a href="https://github.com/funcid/data-science">data-science</a> изучаю теор. вер., мат. стат., анал. данных и ML 🧠
 4. <a href="https://github.com/funcid/web-crawler">web-crawler</a> cканнер интернета, сохраняет найденные сайты + поиск 🌐
 5. <a href="https://github.com/funcid/ftp-desktop-util">ftp-desktop-util</a> клиент для обмена файлами по FTP 📂
 6. <a href="https://github.com/funcid/stable-diffusion-inpaint-util">stable-diffusion-inpaint-util</a> AI редактор фото на базе Stable Diffusion 🔄

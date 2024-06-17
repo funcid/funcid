@@ -18,6 +18,7 @@
 16. <a href="https://github.com/funcid/gost-tls">gost-tls</a> клиент к УЦ CryptoPro по ГОСТ TLS 🌓
 17. <a href="https://github.com/Oppelganger">oppelganger</a> видеообщение с цифровым двойником (курс. работа 3 курс) 🤕
 18. <a href="https://github.com/funcid/moscow-metro-stations-etl">moscow-metro-stations-etl</a> актуальная база станций метро Москвы 🚈
+19. <a href="https://github.com/funcid/funcfolio">funcfolio</a> мое портфолио с ссылками и проектами 🌄
 
 <strong>IN PROGRESS</strong>
 1. <a href="https://github.com/funcid/cuda-hodograph">cuda-hodograph</a> годограф Найквиста на CUDA ядрах, анализ САУ ♾

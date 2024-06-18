@@ -22,6 +22,7 @@
 
 <strong>IN PROGRESS</strong>
 1. <a href="https://github.com/funcid/cuda-hodograph">cuda-hodograph</a> годограф Найквиста на CUDA ядрах, анализ САУ ♾
+2. <a href="https://github.com/funcid/metro-in-tandem">metro-in-tandem</a> хакатон Лига Цифровой Транформации 2024 ✅
 
 ### 🧠 Знания 
 Spring, Spring Boot, Java, Kotlin, Groovy, MongoDB, MySQL, PostgreSQL, Redis, Prometheus, Grafana, Micrometer, Docker, Nexus, Reposilite, REST, Maven, Gradle, Git, GitHub/GitLab CI/CD, Jsoup, Jira, ClickUp, OpenGL, Nats, Liquibase, ProGuard, JProfiler, Bukkit, Spigot, Recaf, Apache Kafka, Elastic/OpenSearch, BitBucket, Linux, OpenShift, k8s, Istio, Envoy, mTLS, Jenkins, Ansible, Keycloak, SonarQube, JUnit, Mockito, WireMock, KarateLabs, VirtualBox, PostMan, HashiCorp Vault, Confluence, GraalVM, OpenAPI, EventBus, ЕСИА, nginx, Lens, Kibana, SdkMan, TestContainers, Python3, Jupyter Notebook, Stable Diffusion, Arduino, ProxMox, Android, Amazon Lambda, S3, MinIO, Serverless, Ktor, Ktlint, Exposed, ReactJs, Node.js, Axios, CORS, WebFlux, CUDA, LLM, TTS, LipSync, НСПК, Feign, MapStruct, JAXB, XJC, Stripe, MixPanel, ГОСТ TLS, CryptoPro CSP/JCSP, FastAPI, Svelte

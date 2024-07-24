@@ -1,9 +1,9 @@
 ### 📂 Деятельность
 
 1. <a href="https://github.com/funcid/visual-driver">visual-driver</a> движок для Minecraft, общий набор визуальных решений 💎
-2. <a href="https://github.com/funcid/meteo-service">meteo-service</a> своя Я.Погода, от Arduino UNO и Spring Boot до Android 🌦
+2. <a href="https://github.com/funcid/meteo-service">meteo-service</a> своя Я.Погода, прошивка Arduino UNO, сервис Spring, Android клиент 🌦
 3. <a href="https://github.com/funcid/metro-in-tandem">metro-in-tandem</a> хакатон Лига Цифровой Транформации 2024 ✅
-4. <a href="https://github.com/funcid/data-science">data-science</a> изучаю теор. вер., мат. стат., анал. данных и ML 🧠
+4. <a href="https://github.com/funcid/data-science">data-science</a> изучаю теор. вер., мат. стат., анал. данных, NLP, диффуры, линал, ML 🧠
 5. <a href="https://github.com/funcid/web-crawler">web-crawler</a> cканнер интернета, сохраняет найденные сайты + поиск 🌐
 6. <a href="https://github.com/funcid/ftp-desktop-util">ftp-desktop-util</a> клиент для обмена файлами по FTP 📂
 7. <a href="https://github.com/funcid/stable-diffusion-inpaint-util">stable-diffusion-inpaint-util</a> AI редактор фото на базе Stable Diffusion 🔄
@@ -26,7 +26,7 @@
 2. <a href="https://github.com/funcid/algorithms-section">algorithms-section</a> конспектирую концепты из мира алгоритмов ❓
 
 ### 🧠 Знания 
-Spring, Spring Boot, Java, Kotlin, Groovy, MongoDB, MySQL, PostgreSQL, Redis, Prometheus, Grafana, Micrometer, Docker, Nexus, Reposilite, REST, Maven, Gradle, Git, GitHub/GitLab CI/CD, Jsoup, Jira, ClickUp, OpenGL, Nats, Liquibase, ProGuard, JProfiler, Bukkit, Spigot, Recaf, Apache Kafka, Elastic/OpenSearch, BitBucket, Linux, OpenShift, k8s, Istio, Envoy, mTLS, Jenkins, Ansible, Keycloak, SonarQube, JUnit, Mockito, WireMock, KarateLabs, VirtualBox, PostMan, HashiCorp Vault, Confluence, GraalVM, OpenAPI, EventBus, ЕСИА, nginx, Lens, Kibana, SdkMan, TestContainers, Python3, Jupyter Notebook, Stable Diffusion, Arduino, ProxMox, Android, Amazon Lambda, S3, MinIO, Serverless, Ktor, Ktlint, Exposed, ReactJs, Node.js, Axios, CORS, WebFlux, CUDA, LLM, TTS, LipSync, НСПК, Feign, MapStruct, JAXB, XJC, Stripe, MixPanel, ГОСТ TLS, CryptoPro CSP/JCSP, FastAPI, Svelte, TypeScript
+Spring, Spring Boot, Java, Kotlin, Groovy, MongoDB, MySQL, PostgreSQL, Redis, Prometheus, Grafana, Micrometer, Docker, Nexus, Reposilite, REST, Maven, Gradle, Git, GitHub/GitLab CI/CD, Jsoup, Jira, ClickUp, OpenGL, Nats, Liquibase, ProGuard, JProfiler, Bukkit, Spigot, Recaf, Apache Kafka, Elastic/OpenSearch, BitBucket, Linux, OpenShift, k8s, Istio, Envoy, mTLS, Jenkins, Ansible, Keycloak, SonarQube, JUnit, Mockito, WireMock, KarateLabs, VirtualBox, PostMan, HashiCorp Vault, Confluence, GraalVM, OpenAPI, EventBus, ЕСИА, nginx, Lens, Kibana, SdkMan, TestContainers, Python3, Jupyter Notebook, Stable Diffusion, Arduino, ProxMox, Android, Amazon Lambda, S3, MinIO, Serverless, Ktor, Ktlint, Exposed, ReactJs, Node.js, Axios, CORS, WebFlux, CUDA, LLM, TTS, LipSync, НСПК, Feign, MapStruct, JAXB, XJC, Stripe, MixPanel, ГОСТ TLS, CryptoPro CSP/JCSP, FastAPI, Svelte, TypeScript, NLP
 
 
 

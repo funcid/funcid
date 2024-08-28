@@ -21,6 +21,7 @@
 19. <a href="https://github.com/funcid/moscow-metro-stations-etl">moscow-metro-stations-etl</a> актуальная база станций метро Москвы 🚈
 20. <a href="https://github.com/funcid/funcfolio">funcfolio</a> мое портфолио с ссылками и проектами 🌄
 21. <a href="https://github.com/funcid/cuda-graphics">cuda-graphics</a> вычисления на CUDA ядрах, график функции в Windows ♾
+22. <a href="https://github.com/funcid/load-balancer">load-balancer</a> реализация балансировщиков нагрузки на Go📡
 
 <strong>IN PROGRESS</strong>
 1. <a href="https://github.com/funcid/automatic-control-system">automatic-control-system</a> изучаю теорию САУ на Julia 🐚

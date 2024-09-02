@@ -22,6 +22,7 @@
 20. <a href="https://github.com/funcid/funcfolio">funcfolio</a> мое портфолио с ссылками и проектами 🌄
 21. <a href="https://github.com/funcid/cuda-graphics">cuda-graphics</a> вычисления на CUDA ядрах, график функции в Windows ♾
 22. <a href="https://github.com/funcid/load-balancer">load-balancer</a> реализация балансировщиков нагрузки на Go📡
+23. <a href="https://github.com/funcid/rate-limiter">rate-limiter</a> реализация ограничителя трафика на Kotlin⌛
 
 <strong>IN PROGRESS</strong>
 1. <a href="https://github.com/funcid/automatic-control-system">automatic-control-system</a> изучаю теорию САУ на Julia 🐚

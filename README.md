@@ -23,6 +23,7 @@
 21. <a href="https://github.com/funcid/cuda-graphics">cuda-graphics</a> вычисления на CUDA ядрах, график функции в Windows ♾
 22. <a href="https://github.com/funcid/load-balancer">load-balancer</a> реализация балансировщиков нагрузки на Go📡
 23. <a href="https://github.com/funcid/rate-limiter">rate-limiter</a> ограничители трафика из книги System Design от Алекс Сюй⌛
+24. <a href="https://github.com/funcid/at-least-once-notifier">at-least-once-notifier</a> сервис рассылки Sms и Push с гарантией доставки ⛳
 
 <strong>IN PROGRESS</strong>
 1. <a href="https://github.com/funcid/automatic-control-system">automatic-control-system</a> изучаю теорию САУ на Julia 🐚

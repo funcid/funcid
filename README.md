@@ -24,10 +24,11 @@
 22. <a href="https://github.com/funcid/load-balancer">load-balancer</a> реализация балансировщиков нагрузки на Go📡
 23. <a href="https://github.com/funcid/rate-limiter">rate-limiter</a> ограничители трафика из книги System Design от Алекс Сюй⌛
 24. <a href="https://github.com/funcid/at-least-once-notifier">at-least-once-notifier</a> сервис рассылки Sms и Push с гарантией доставки ⛳
+25. <a href="https://github.com/funcid/algorithms-section">algorithms-section</a> конспектирую концепты из мира алгоритмов ❓
 
 <strong>IN PROGRESS</strong>
 1. <a href="https://github.com/funcid/automatic-control-system">automatic-control-system</a> изучаю теорию САУ на Julia 🐚
-2. <a href="https://github.com/funcid/algorithms-section">algorithms-section</a> конспектирую концепты из мира алгоритмов ❓
+2. <a href="https://github.com/funcid/funcfunc">funcfunc</a> аналитика для вашего портфеля 💸
 
 ### 🧠 Знания 
 Spring, Spring Boot, Java, Kotlin, Groovy, MongoDB, MySQL, PostgreSQL, Redis, Prometheus, Grafana, Micrometer, Docker, Nexus, Reposilite, REST, Maven, Gradle, Git, GitHub/GitLab CI/CD, Jsoup, OpenGL, Nats, Liquibase, ProGuard, JProfiler, Bukkit, Spigot, Recaf, Apache Kafka, Elastic/OpenSearch, Linux, OpenShift, k8s, Istio, Envoy, mTLS, Jenkins, Ansible, Keycloak, SonarQube, JUnit, Mockito, WireMock, KarateLabs, VirtualBox, HashiCorp Vault, GraalVM, OpenAPI, EventBus, ЕСИА, nginx, Lens, Kibana, SdkMan, TestContainers, Python3, Jupyter Notebook, Stable Diffusion, Arduino, ProxMox, Android, Amazon Lambda, S3, MinIO, Serverless, Ktor, Ktlint, Exposed, ReactJs, Node.js, Axios, CORS, WebFlux, CUDA, LLM, TTS, LipSync, НСПК, Feign, MapStruct, JAXB, XJC, Stripe, MixPanel, ГОСТ TLS, CryptoPro CSP/JCSP, FastAPI, Svelte, TypeScript, NLP, ZenUML, Julia, NextJS, NestJS

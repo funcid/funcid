@@ -19,12 +19,13 @@
 17. <a href="https://github.com/funcid/gost-tls">gost-tls</a> клиент к УЦ CryptoPro по ГОСТ TLS 🌓
 18. <a href="https://github.com/Oppelganger">oppelganger</a> видеообщение с цифровым двойником (курс. работа 3 курс) 🤕
 19. <a href="https://github.com/funcid/moscow-metro-stations-etl">moscow-metro-stations-etl</a> актуальная база станций метро Москвы 🚈
-20. <a href="https://github.com/funcid/funcfolio">funcfolio</a> мое портфолио с ссылками и проектами 🌄
+20. <a href="https://github.com/funcid/funcfolio">funcfolio</a> веб страничка обо мне 🌄
 21. <a href="https://github.com/funcid/cuda-graphics">cuda-graphics</a> вычисления на CUDA ядрах, график функции в Windows ♾
 22. <a href="https://github.com/funcid/load-balancer">load-balancer</a> реализация балансировщиков нагрузки на Go📡
 23. <a href="https://github.com/funcid/rate-limiter">rate-limiter</a> ограничители трафика из книги System Design от Алекс Сюй⌛
 24. <a href="https://github.com/funcid/at-least-once-notifier">at-least-once-notifier</a> сервис рассылки Sms и Push с гарантией доставки ⛳
 25. <a href="https://github.com/funcid/algorithms-section">algorithms-section</a> конспектирую концепты из мира алгоритмов ❓
+26. <a href="https://github.com/funcid/akita">akita</a> управление умными лампочками по API 🕺
 
 <strong>IN PROGRESS</strong>
 1. <a href="https://github.com/funcid/automatic-control-system">automatic-control-system</a> изучаю теорию САУ на Julia 🐚

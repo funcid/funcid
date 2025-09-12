@@ -26,9 +26,9 @@
 24. <a href="https://github.com/funcid/at-least-once-notifier">at-least-once-notifier</a> сервис рассылки Sms и Push с гарантией доставки ⛳
 25. <a href="https://github.com/funcid/algorithms-section">algorithms-section</a> конспектирую концепты из мира алгоритмов ❓
 26. <a href="https://github.com/funcid/akita">akita</a> управление умными лампочками по API 🕺
+27. <a href="https://github.com/funcid/automatic-control-system">automatic-control-system</a> изучаю теорию САУ на Julia 🐚
 
 <strong>IN PROGRESS</strong>
-1. <a href="https://github.com/funcid/automatic-control-system">automatic-control-system</a> изучаю теорию САУ на Julia 🐚
 2. <a href="https://github.com/funcid/funcfund">funcfund</a> аналитика для вашего портфеля 💸
 3. <a href="https://github.com/funcid/mipt-masters-coursework">МФТИ магистратура "Разработка ИТ-продукта"</a> 🧐
 

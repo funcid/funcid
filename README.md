@@ -1,7 +1,7 @@
 ### 📂 Деятельность
 
 <strong>IN PROGRESS</strong>
-1. <a href="https://github.com/funcid/funcfund">funcfund</a> аналитика для вашего портфеля 💸
+1. <a href="https://github.com/funcid/funcfund">funcfund</a> управление накоплениями 💸
 2. <a href="https://github.com/funcid/mipt-masters-coursework">МФТИ магистратура "Разработка ИТ-продукта"</a> 🧐
 
 <strong>IDLE</strong>

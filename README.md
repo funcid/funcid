@@ -1,8 +1,7 @@
-### 📂 Деятельность
-
 <strong>IN PROGRESS</strong>
-1. <a href="https://github.com/funcid/funcfund">funcfund</a> управление накоплениями 💸
-2. <a href="https://github.com/funcid/mipt-masters-coursework">МФТИ магистратура "Разработка ИТ-продукта"</a> 🧐
+1. <a href="https://github.com/funcid/mipt-masters-coursework">МФТИ магистратура "Разработка ИТ-продукта"</a> 🧐
+2. <a href="https://github.com/funcid/funcfund">funcfund</a> управление накоплениями 💸
+3. <a href="https://github.com/funcid/kpi">kpi</a> генератор личных отчетов по Todoist/funcfund 📈
 
 <strong>IDLE</strong>
   
@@ -14,7 +13,7 @@
 6. <a href="https://github.com/funcid/ftp-desktop-util">ftp-desktop-util</a> клиент для обмена файлами по FTP 📂
 7. <a href="https://github.com/funcid/stable-diffusion-inpaint-util">stable-diffusion-inpaint-util</a> AI редактор фото на базе Stable Diffusion 🔄
 8. <a href="https://github.com/funcid/log4j-exploit-fork-bomb">log4j-exploit-fork-bomb</a> Proof of Concept: CVE-2021-44228 + fork bomb 💣
-9. <a href="https://github.com/funcid/parametric-graphics-visualizer">parametric-graphics-visualizer</a> параметрические функции 📈
+9. <a href="https://github.com/funcid/parametric-graphics-visualizer">parametric-graphics-visualizer</a> параметрические функции 📉
 10. <a href="https://github.com/cristalix-developers/museum">museum</a> игра, экономический симулятор палеонтолога 🏦
 11. <a href="https://github.com/funcid/takiwadai">takiwadai</a> платформа для соревнований в решении олимп. задач ⌚
 12. <a href="https://github.com/funcid/leetcode-training">leetcode-training</a> решаю LeetCode проблемы 👺
@@ -34,5 +33,8 @@
 26. <a href="https://github.com/funcid/akita">akita</a> управление умными лампочками по API 🕺
 27. <a href="https://github.com/funcid/automatic-control-system">automatic-control-system</a> изучаю теорию САУ на Julia 🐚
 
-### 🧠 Знания 
+<details><summary><h3>Tech Stack</h3> </summary>
+
 Spring, Spring Boot, Java, Kotlin, Groovy, MongoDB, MySQL, PostgreSQL, Redis, Prometheus, Grafana, Micrometer, Docker, Nexus, Reposilite, REST, Maven, Gradle, Git, GitHub/GitLab CI/CD, Jsoup, OpenGL, Nats, Liquibase, ProGuard, JProfiler, Bukkit, Spigot, Recaf, Apache Kafka, Elastic/OpenSearch, Linux, OpenShift, k8s, Istio, Envoy, mTLS, Jenkins, Ansible, Keycloak, SonarQube, JUnit, Mockito, WireMock, KarateLabs, VirtualBox, HashiCorp Vault, GraalVM, OpenAPI, EventBus, ЕСИА, nginx, Lens, Kibana, SdkMan, TestContainers, Python3, Jupyter Notebook, Stable Diffusion, Arduino, ProxMox, Android, Amazon Lambda, S3, MinIO, Serverless, Ktor, Ktlint, Exposed, ReactJs, Node.js, Axios, CORS, WebFlux, CUDA, LLM, TTS, LipSync, НСПК, Feign, MapStruct, JAXB, XJC, Stripe, MixPanel, ГОСТ TLS, CryptoPro CSP/JCSP, FastAPI, Svelte, TypeScript, NLP, ZenUML, Julia, NextJS, NestJS, Temporal.io, Cassandra
+
+</details>

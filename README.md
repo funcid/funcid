@@ -1,7 +1,6 @@
 <strong>IN PROGRESS</strong>
 1. <a href="https://github.com/funcid/mipt-masters-coursework">МФТИ магистратура "Разработка ИТ-продукта"</a> 🧐
 2. <a href="https://github.com/funcid/funcfund">funcfund</a> управление накоплениями 💸
-3. <a href="https://github.com/funcid/kpi">kpi</a> генератор личных отчетов по Todoist/funcfund 📈
 
 <strong>IDLE</strong>
   
@@ -10,28 +9,29 @@
 3. <a href="https://github.com/funcid/metro-in-tandem">metro-in-tandem</a> хакатон Лига Цифровой Транформации 2024 ✅
 4. <a href="https://github.com/funcid/data-science">data-science</a> изучаю теор. вер., мат. стат., анал. данных, NLP, диффуры, линал, ML 🧠
 5. <a href="https://github.com/funcid/web-crawler">web-crawler</a> cканнер интернета, сохраняет найденные сайты + поиск 🌐
-6. <a href="https://github.com/funcid/ftp-desktop-util">ftp-desktop-util</a> клиент для обмена файлами по FTP 📂
-7. <a href="https://github.com/funcid/stable-diffusion-inpaint-util">stable-diffusion-inpaint-util</a> AI редактор фото на базе Stable Diffusion 🔄
-8. <a href="https://github.com/funcid/log4j-exploit-fork-bomb">log4j-exploit-fork-bomb</a> Proof of Concept: CVE-2021-44228 + fork bomb 💣
-9. <a href="https://github.com/funcid/parametric-graphics-visualizer">parametric-graphics-visualizer</a> параметрические функции 📉
-10. <a href="https://github.com/cristalix-developers/museum">museum</a> игра, экономический симулятор палеонтолога 🏦
-11. <a href="https://github.com/funcid/takiwadai">takiwadai</a> платформа для соревнований в решении олимп. задач ⌚
-12. <a href="https://github.com/funcid/leetcode-training">leetcode-training</a> решаю LeetCode проблемы 👺
-13. <a href="https://github.com/funcid/web-post-parser">web-post-parser</a> посты из Pikabu/JoyReactor в XML/JSON 📄
-14. <a href="https://github.com/funcid/peas-cli">peas-cli</a> децентрализованный файлообмен (курс. работа 2 курс) 📲
-15. <a href="https://github.com/funcid/s3-vultr-downloader">s3-vultr-downloader</a> скачать корзину из Vultr 💫
-16. <a href="https://github.com/funcid/web-k8s">web-k8s</a> утилита для администрирования Kubernetes 👀
-17. <a href="https://github.com/funcid/gost-tls">gost-tls</a> клиент к УЦ CryptoPro по ГОСТ TLS 🌓
-18. <a href="https://github.com/Oppelganger">oppelganger</a> видеообщение с цифровым двойником (курс. работа 3 курс) 🤕
-19. <a href="https://github.com/funcid/moscow-metro-stations-etl">moscow-metro-stations-etl</a> актуальная база станций метро Москвы 🚈
-20. <a href="https://github.com/funcid/funcfolio">funcfolio</a> веб страничка обо мне 🌄
-21. <a href="https://github.com/funcid/cuda-graphics">cuda-graphics</a> вычисления на CUDA ядрах, график функции в Windows ♾
-22. <a href="https://github.com/funcid/load-balancer">load-balancer</a> реализация балансировщиков нагрузки на Go📡
-23. <a href="https://github.com/funcid/rate-limiter">rate-limiter</a> ограничители трафика из книги System Design от Алекс Сюй⌛
-24. <a href="https://github.com/funcid/at-least-once-notifier">at-least-once-notifier</a> сервис рассылки Sms и Push с гарантией доставки ⛳
-25. <a href="https://github.com/funcid/algorithms-section">algorithms-section</a> конспектирую концепты из мира алгоритмов ❓
-26. <a href="https://github.com/funcid/akita">akita</a> управление умными лампочками по API 🕺
-27. <a href="https://github.com/funcid/automatic-control-system">automatic-control-system</a> изучаю теорию САУ на Julia 🐚
+6. <a href="https://github.com/funcid/kpi">kpi</a> генератор личных отчетов по Todoist/funcfund 📈
+7. <a href="https://github.com/funcid/ftp-desktop-util">ftp-desktop-util</a> клиент для обмена файлами по FTP 📂
+8. <a href="https://github.com/funcid/stable-diffusion-inpaint-util">stable-diffusion-inpaint-util</a> AI редактор фото на базе Stable Diffusion 🔄
+9. <a href="https://github.com/funcid/log4j-exploit-fork-bomb">log4j-exploit-fork-bomb</a> Proof of Concept: CVE-2021-44228 + fork bomb 💣
+10. <a href="https://github.com/funcid/parametric-graphics-visualizer">parametric-graphics-visualizer</a> параметрические функции 📉
+11. <a href="https://github.com/cristalix-developers/museum">museum</a> игра, экономический симулятор палеонтолога 🏦
+12. <a href="https://github.com/funcid/takiwadai">takiwadai</a> платформа для соревнований в решении олимп. задач ⌚
+13. <a href="https://github.com/funcid/leetcode-training">leetcode-training</a> решаю LeetCode проблемы 👺
+14. <a href="https://github.com/funcid/web-post-parser">web-post-parser</a> посты из Pikabu/JoyReactor в XML/JSON 📄
+15. <a href="https://github.com/funcid/peas-cli">peas-cli</a> децентрализованный файлообмен (курс. работа 2 курс) 📲
+16. <a href="https://github.com/funcid/s3-vultr-downloader">s3-vultr-downloader</a> скачать корзину из Vultr 💫
+17. <a href="https://github.com/funcid/web-k8s">web-k8s</a> утилита для администрирования Kubernetes 👀
+18. <a href="https://github.com/funcid/gost-tls">gost-tls</a> клиент к УЦ CryptoPro по ГОСТ TLS 🌓
+19. <a href="https://github.com/Oppelganger">oppelganger</a> видеообщение с цифровым двойником (курс. работа 3 курс) 🤕
+20. <a href="https://github.com/funcid/moscow-metro-stations-etl">moscow-metro-stations-etl</a> актуальная база станций метро Москвы 🚈
+21. <a href="https://github.com/funcid/funcfolio">funcfolio</a> веб страничка обо мне 🌄
+22. <a href="https://github.com/funcid/cuda-graphics">cuda-graphics</a> вычисления на CUDA ядрах, график функции в Windows ♾
+23. <a href="https://github.com/funcid/load-balancer">load-balancer</a> реализация балансировщиков нагрузки на Go📡
+24. <a href="https://github.com/funcid/rate-limiter">rate-limiter</a> ограничители трафика из книги System Design от Алекс Сюй⌛
+25. <a href="https://github.com/funcid/at-least-once-notifier">at-least-once-notifier</a> сервис рассылки Sms и Push с гарантией доставки ⛳
+26. <a href="https://github.com/funcid/algorithms-section">algorithms-section</a> конспектирую концепты из мира алгоритмов ❓
+27. <a href="https://github.com/funcid/akita">akita</a> управление умными лампочками по API 🕺
+28. <a href="https://github.com/funcid/automatic-control-system">automatic-control-system</a> изучаю теорию САУ на Julia 🐚
 
 <details><summary><h3>Tech Stack</h3> </summary>
 

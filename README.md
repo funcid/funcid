@@ -1,10 +1,10 @@
-[LinkedIn](https://www.linkedin.com/in/artyom-tsaryuk-989993276/) · [Telegram](https://t.me/funcid) · [Portfolio](https://github.com/funcid/funcfolio)
+[LinkedIn](https://www.linkedin.com/in/artyom-tsaryuk-989993276/) · [Telegram](https://t.me/funcid)
 
-### Backend & Platform Engineer · MIPT Master's (IT Product Development)
+### Lead Backend Engineer · Fintech · MIPT Master's (IT Product Development)
 
-I design and ship **production-grade backend systems** — microservices, event-driven pipelines, and cloud-native infrastructure. Comfortable from API design through observability, CI/CD, and Kubernetes operations.
+**5+ years** shipping regulated payment systems and high-load backends — from architecture and delivery to mentoring and hiring. Currently building **digital currency (CBDC)** and **instant payments (FPS)** at MWS.
 
-**Open to** backend, platform, and distributed-systems roles · remote-friendly
+**Open to** backend, platform, and fintech roles · remote-friendly
 
 ---
 
@@ -81,6 +81,8 @@ I design and ship **production-grade backend systems** — microservices, event-
 **Observability:** Prometheus, Grafana, Micrometer, Kibana
 
 **Quality:** JUnit, Mockito, WireMock, KarateLabs, TestContainers, SonarQube, Ktlint
+
+**AI-assisted development:** Cursor, Claude Code, GitHub Copilot, ChatGPT
 
 **Security & compliance:** Keycloak, HashiCorp Vault, GOST TLS, CryptoPro CSP/JCSP
 

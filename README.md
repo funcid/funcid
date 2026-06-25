@@ -1,3 +1,5 @@
+[LinkedIn](https://www.linkedin.com/in/artyom-tsaryuk-989993276/) · [Telegram](https://t.me/funcid) · [Portfolio](https://github.com/funcid/funcfolio)
+
 ### Backend & Platform Engineer · MIPT Master's (IT Product Development)
 
 I design and ship **production-grade backend systems** — microservices, event-driven pipelines, and cloud-native infrastructure. Comfortable from API design through observability, CI/CD, and Kubernetes operations.
@@ -6,49 +8,58 @@ I design and ship **production-grade backend systems** — microservices, event-
 
 ---
 
-#### 🔨 Currently building
+#### Projects
 
-1. [**MIPT Master's coursework**](https://github.com/funcid/mipt-masters-coursework) — IT product development track
-2. [**funcfund**](https://github.com/funcid/funcfund) — personal savings & finance tracking
+**Active**
 
----
+- **[funcfund](https://github.com/funcid/funcfund)** · personal savings & finance tracking
+- **[mipt-masters-coursework](https://github.com/funcid/mipt-masters-coursework)** · MIPT master's, IT product development
 
-#### 💼 Selected work
+**Backend & infrastructure**
 
-| Project | What it demonstrates |
-|---------|---------------------|
-| [at-least-once-notifier](https://github.com/funcid/at-least-once-notifier) | SMS/Push delivery with guaranteed at-least-once semantics |
-| [load-balancer](https://github.com/funcid/load-balancer) | Load-balancing algorithms in Go (System Design patterns) |
-| [rate-limiter](https://github.com/funcid/rate-limiter) | Traffic limiting — token bucket, sliding window |
-| [metro-in-tandem](https://github.com/funcid/metro-in-tandem) | Digital Transformation League hackathon 2024 ✅ |
-| [meteo-service](https://github.com/funcid/meteo-service) | IoT → Spring service → Android client |
-| [web-k8s](https://github.com/funcid/web-k8s) | Kubernetes administration tooling |
-| [oppelganger](https://github.com/Oppelganger) | Real-time video with a digital twin (LLM, TTS, LipSync) |
+- **[at-least-once-notifier](https://github.com/funcid/at-least-once-notifier)** · SMS/Push delivery with at-least-once guarantee
+- **[load-balancer](https://github.com/funcid/load-balancer)** · load-balancing algorithms in Go
+- **[rate-limiter](https://github.com/funcid/rate-limiter)** · token bucket & sliding window rate limiting
+- **[web-k8s](https://github.com/funcid/web-k8s)** · Kubernetes administration tooling
+- **[gost-tls](https://github.com/funcid/gost-tls)** · CryptoPro CA client over GOST TLS
+
+**Full-stack & product**
+
+- **[metro-in-tandem](https://github.com/funcid/metro-in-tandem)** · hackathon winner, Digital Transformation League 2024
+- **[meteo-service](https://github.com/funcid/meteo-service)** · Arduino → Spring → Android weather stack
+- **[oppelganger](https://github.com/Oppelganger)** · video chat with a digital twin (LLM, TTS, lip sync)
+- **[museum](https://github.com/cristalix-developers/museum)** · paleontologist economic simulator
+- **[takiwadai](https://github.com/funcid/takiwadai)** · competitive olympiad problem-solving platform
+- **[funcfolio](https://github.com/funcid/funcfolio)** · personal portfolio site
 
 <details>
-<summary><b>More projects (21)</b></summary>
+<summary><b>More</b></summary>
 
-1. [visual-driver](https://github.com/funcid/visual-driver) — Minecraft rendering engine & visual toolkit
-2. [data-science](https://github.com/funcid/data-science) — probability, statistics, NLP, ML
-3. [web-crawler](https://github.com/funcid/web-crawler) — internet scanner with search index
-4. [kpi](https://github.com/funcid/kpi) — personal reports from Todoist / funcfund
-5. [ftp-desktop-util](https://github.com/funcid/ftp-desktop-util) — FTP file exchange client
-6. [stable-diffusion-inpaint-util](https://github.com/funcid/stable-diffusion-inpaint-util) — Stable Diffusion photo editor
-7. [log4j-exploit-fork-bomb](https://github.com/funcid/log4j-exploit-fork-bomb) — CVE-2021-44228 PoC
-8. [parametric-graphics-visualizer](https://github.com/funcid/parametric-graphics-visualizer) — parametric function plots
-9. [museum](https://github.com/cristalix-developers/museum) — paleontologist economic simulator game
-10. [takiwadai](https://github.com/funcid/takiwadai) — competitive olympiad problem-solving platform
-11. [leetcode-training](https://github.com/funcid/leetcode-training) — LeetCode solutions
-12. [web-post-parser](https://github.com/funcid/web-post-parser) — Pikabu/JoyReactor → XML/JSON
-13. [peas-cli](https://github.com/funcid/peas-cli) — decentralized file sharing (2nd-year coursework)
-14. [s3-vultr-downloader](https://github.com/funcid/s3-vultr-downloader) — bulk download from Vultr buckets
-15. [gost-tls](https://github.com/funcid/gost-tls) — CryptoPro CA client over GOST TLS
-16. [moscow-metro-stations-etl](https://github.com/funcid/moscow-metro-stations-etl) — Moscow metro stations ETL
-17. [funcfolio](https://github.com/funcid/funcfolio) — personal portfolio site
-18. [cuda-graphics](https://github.com/funcid/cuda-graphics) — CUDA function plotting on Windows
-19. [algorithms-section](https://github.com/funcid/algorithms-section) — algorithm concepts notes
-20. [akita](https://github.com/funcid/akita) — smart bulb API control
-21. [automatic-control-system](https://github.com/funcid/automatic-control-system) — control theory in Julia
+**Data & ML**
+
+- **[data-science](https://github.com/funcid/data-science)** · probability, statistics, NLP, ML
+- **[moscow-metro-stations-etl](https://github.com/funcid/moscow-metro-stations-etl)** · Moscow metro stations ETL
+- **[web-crawler](https://github.com/funcid/web-crawler)** · internet scanner with search index
+- **[stable-diffusion-inpaint-util](https://github.com/funcid/stable-diffusion-inpaint-util)** · Stable Diffusion photo editor
+- **[kpi](https://github.com/funcid/kpi)** · personal reports from Todoist / funcfund
+
+**Tools & utilities**
+
+- **[visual-driver](https://github.com/funcid/visual-driver)** · Minecraft rendering engine
+- **[ftp-desktop-util](https://github.com/funcid/ftp-desktop-util)** · FTP file exchange client
+- **[s3-vultr-downloader](https://github.com/funcid/s3-vultr-downloader)** · bulk download from Vultr buckets
+- **[web-post-parser](https://github.com/funcid/web-post-parser)** · Pikabu / JoyReactor → XML / JSON
+- **[peas-cli](https://github.com/funcid/peas-cli)** · decentralized file sharing
+- **[akita](https://github.com/funcid/akita)** · smart bulb API control
+
+**Experiments & learning**
+
+- **[leetcode-training](https://github.com/funcid/leetcode-training)** · LeetCode solutions
+- **[algorithms-section](https://github.com/funcid/algorithms-section)** · algorithm concepts notes
+- **[log4j-exploit-fork-bomb](https://github.com/funcid/log4j-exploit-fork-bomb)** · CVE-2021-44228 PoC
+- **[cuda-graphics](https://github.com/funcid/cuda-graphics)** · CUDA function plotting on Windows
+- **[parametric-graphics-visualizer](https://github.com/funcid/parametric-graphics-visualizer)** · parametric function plots
+- **[automatic-control-system](https://github.com/funcid/automatic-control-system)** · control theory in Julia
 
 </details>
 
@@ -78,11 +89,3 @@ I design and ship **production-grade backend systems** — microservices, event-
 **Other:** Python, Julia, CUDA, LLM/TTS/LipSync, Stable Diffusion, Arduino, OpenGL, Bukkit/Spigot, Gradle, Maven, Git, GitHub/GitLab CI/CD
 
 </details>
-
----
-
-#### 📫 Connect
-
-- LinkedIn → [artyom-tsaryuk](https://www.linkedin.com/in/artyom-tsaryuk-989993276/)
-- Portfolio → [funcfolio](https://github.com/funcid/funcfolio)
-- All repos → [github.com/funcid](https://github.com/funcid)
